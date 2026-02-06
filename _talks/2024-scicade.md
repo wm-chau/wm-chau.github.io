@@ -2,7 +2,6 @@
 title: "An Adaptive Ray Tracing Method for Eikonal Equation on Spheres"
 collection: talks
 type: "Poster presentation"
-permalink: /talks/2024-scicade
 venue: "International Conference on Scientific Computation and Differential Equations (SciCADE)"
 date: 2024-07-15
 location: "National University of Singapore, Singapore"

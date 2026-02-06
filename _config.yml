@@ -1,8 +1,8 @@
 # Site Settings (find these near the top)
 locale                   : "en-US"
-title                    : "Wai Ming Chau"
+title                    : "Wai Ming (David) Chau"
 title_separator          : "-"
-name                     : &name "Wai Ming Chau"
+name                     : &name "Wai Ming (David) Chau"
 description              : &description "Ph.D. student in Computational Mathematics at Michigan State University"
 url                      : https://wm-chau.github.io
 baseurl                  : ""

@@ -5,6 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Teaching Assistant at HKUST:
+
+- **MATH 3033** Real Analysis, Fall 2024
+- **MATH 1014** Calculus II (Math Major Section), Spring 2024, Spring 2025

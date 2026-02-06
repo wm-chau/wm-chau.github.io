@@ -14,9 +14,9 @@ I am a Ph.D. student in [Computational Mathematics, Science and Engineering (CMS
 
 My research focuses on computational and applied mathematics, with particular interests in:
 
-- **Numerical methods for differential equations on manifolds**: structure-preserving integrators, geodesic-based methods, and eikonal equations on spheres and Lie groups
-- **Visualization methods for dynamical systems**: finite-time Lyapunov exponents, coherent structure identification, and uncertainty quantification in flows
-- **Optimal control, mean-field games, and related inverse problems**: Hamilton–Jacobi equations, adjoint-state methods, and applications to scientific computing
+- **Numerical methods for differential equations on manifolds** 
+- **Visualization methods for dynamical systems** 
+- **Optimal control, mean-field games, and related inverse problems**
 
 ## Honors & Awards
 
@@ -26,5 +26,3 @@ My research focuses on computational and applied mathematics, with particular in
 ## Contact
 
 - **Email**: [chauwai@msu.edu](mailto:chauwai@msu.edu) / [wmchau@connect.ust.hk](mailto:wmchau@connect.ust.hk)
-- **GitHub**: [wm-chau](https://github.com/wm-chau)
-- **Office**: Department of CMSE, Michigan State University, East Lansing, MI 48824

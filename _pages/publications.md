@@ -17,6 +17,6 @@ You can also find my articles on my [Google Scholar profile]([https://scholar.go
 
 4. **Wai Ming Chau** and Shingyu Leung. "Within-Cluster Variability Exponent for Identifying Coherent Structures in Dynamical Systems." *Communications in Computational Physics*, 33(3), 824–848, 2023.
 
-## Working Papers
+## Submitted Papers
 
-1. **Wai Ming Chau** and Shingyu Leung. "Geodesic-Based Structure-Preserving Explicit Integrators on Manifolds." *In preparation.*
+1. **Wai Ming Chau** and Shingyu Leung. "Geodesic-Based Structure-Preserving Explicit Integrators on Manifolds."

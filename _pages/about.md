@@ -25,4 +25,4 @@ My research focuses on computational and applied mathematics, with particular in
 
 ## Contact
 
-- **Email**: [chauwai@msu.edu](mailto:chauwai@msu.edu) / [wmchau@connect.ust.hk](mailto:wmchau@connect.ust.hk)
+- **Email**: chauwai@msu.edu / wmchau@connect.ust.hk

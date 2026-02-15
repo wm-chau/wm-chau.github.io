@@ -9,13 +9,13 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 ## Published Papers
 
-1. Guoqiao You, **Wai Ming Chau**, and Shingyu Leung. "An Eulerian Variance-Based Finite-Time Lyapunov Exponent (vFTLE) Approach for Flows with Uncertainties." *Journal of Computational Physics*, 114353, 2025. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0021999125006357)
+1. Guoqiao You, **Wai Ming Chau**, and Shingyu Leung. ["An Eulerian Variance-Based Finite-Time Lyapunov Exponent (vFTLE) Approach for Flows with Uncertainties."](https://www.sciencedirect.com/science/article/abs/pii/S0021999125006357) *Journal of Computational Physics*, 114353, 2025.
 
-2. **Wai Ming Chau** and Shingyu Leung. "An Adaptive Ray-Tracing Method for Eikonal Equations on Spheres Using STVDRK Integrators and SENO Interpolations." *Journal of Computational Physics*, 114100, 2025. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0021999125003833)
+2. **Wai Ming Chau** and Shingyu Leung. ["An Adaptive Ray-Tracing Method for Eikonal Equations on Spheres Using STVDRK Integrators and SENO Interpolations."](https://www.sciencedirect.com/science/article/abs/pii/S0021999125003833) *Journal of Computational Physics*, 114100, 2025.
 
-3. Shingyu Leung, **Wai Ming Chau**, and Young Kyu Lee. "SLERP–TVDRK (STVDRK) Methods for Ordinary Differential Equations on Spheres." *Journal of Scientific Computing*, 101, 63, 2024. [[Paper]](https://link.springer.com/article/10.1007/s10915-024-02702-2)
+3. Shingyu Leung, **Wai Ming Chau**, and Young Kyu Lee. ["SLERP–TVDRK (STVDRK) Methods for Ordinary Differential Equations on Spheres."](https://link.springer.com/article/10.1007/s10915-024-02702-2) *Journal of Scientific Computing*, 101, 63, 2024.
 
-4. **Wai Ming Chau** and Shingyu Leung. "Within-Cluster Variability Exponent for Identifying Coherent Structures in Dynamical Systems." *Communications in Computational Physics*, 33(3), 824–848, 2023. [[Paper]](https://arxiv.org/abs/2212.12647)
+4. **Wai Ming Chau** and Shingyu Leung. ["Within-Cluster Variability Exponent for Identifying Coherent Structures in Dynamical Systems."](https://arxiv.org/abs/2212.12647) *Communications in Computational Physics*, 33(3), 824–848, 2023.
 
 ## Submitted Papers
 

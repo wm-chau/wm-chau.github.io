@@ -11,7 +11,7 @@ Hi! I am a first-year Ph.D. student in [Computational Mathematics, Science and E
 
 My research goal is to employ various mathematical tools, such as differential equations, geometry, and probability theory, to develop efficient algorithms and novel frameworks that enhance our understanding of complex phenomena within the broad field of scientific computation.
 
-Previously, we developed geodesic-based structure-preserving algorithms on manifolds, with applications to wavefront propagation on the unit sphere and computing the Lyapunov exponent of dynamical systems. We also investigated various meaningful metrics, beyond the Lyapunov exponent, to study coherent structures and designed efficient algorithms to extract these quantities.
+Previously, we developed geodesic-based structure-preserving algorithms on manifolds, with applications to wavefront propagation on the spheres and computing the Lyapunov exponent of dynamical systems. We also investigated various meaningful metrics, beyond the Lyapunov exponent, to study coherent structures and designed efficient algorithms to extract these quantities.
 
 A recent focus is on the inverse problem of mean-field games and the Hamilton-Jacobi equation on Wasserstein space.
 

@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I am a first-year Ph.D. student in [Computational Mathematics, Science and Engineering (CMSE)](https://cmse.msu.edu/) at Michigan State University, advised by [Prof. Jianliang Qian](https://users.math.msu.edu/users/qian/). Prior to MSU, I obtained my M.Phil. and B.Sc. in Mathematics from the [Hong Kong University of Science and Technology (HKUST)](https://www.math.hkust.edu.hk/), where I was supervised by [Prof. Shingyu Leung](https://www.math.hkust.edu.hk/~masyleung/). My research is supported by the Croucher Scholarship during my Ph.D. study.
+Hi! I am David, a first-year Ph.D. student in [Computational Mathematics, Science and Engineering (CMSE)](https://cmse.msu.edu/) at Michigan State University, advised by [Prof. Jianliang Qian](https://users.math.msu.edu/users/qian/). Prior to MSU, I obtained my M.Phil. and B.Sc. in Mathematics from the [Hong Kong University of Science and Technology (HKUST)](https://www.math.hkust.edu.hk/), where I was supervised by [Prof. Shingyu Leung](https://www.math.hkust.edu.hk/~masyleung/). My research is supported by the Croucher Scholarship during my Ph.D. study.
 
 My research goal is to employ various mathematical tools, such as differential equations, geometry, and probability theory, to develop efficient algorithms and novel frameworks that enhance our understanding of complex phenomena within the broad field of scientific computation.
 

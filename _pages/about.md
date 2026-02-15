@@ -13,7 +13,7 @@ My research goal is to employ various mathematical tools, such as differential e
 
 Previously, we developed geodesic-based structure-preserving algorithms on manifolds, with applications to wavefront propagation on the spheres and computing the Lyapunov exponent of dynamical systems. We also investigated various meaningful metrics, beyond the Lyapunov exponent, to study coherent structures and designed efficient algorithms to extract these quantities.
 
-A recent focus is on the inverse problem of mean-field games and the Hamilton-Jacobi equation on Wasserstein space.
+A recent focus is on the inverse problem of mean-field games, the Hamilton-Jacobi equation on Wasserstein space and dynamical low-rank approximation.
 
 ## Education
 - **Ph.D. in Computational Mathematics, Science and Engineering**, Michigan State University (2025–present)
